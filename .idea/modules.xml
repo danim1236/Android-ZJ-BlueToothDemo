@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlueToothDEMO.iml" filepath="$PROJECT_DIR$/BlueToothDEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueToothDEMO-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueToothDEMO-app.iml" group="BlueToothDEMO/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/btsdk/BlueToothDEMO-btsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/btsdk/BlueToothDEMO-btsdk.iml" group="BlueToothDEMO/btsdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Workspace-BlueToothDEMO.iml" filepath="$PROJECT_DIR$/.idea/modules/Workspace-BlueToothDEMO.iml" group="BlueToothDEMO" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/btsdk/btsdk.iml" filepath="$PROJECT_DIR$/btsdk/btsdk.iml" />
     </modules>

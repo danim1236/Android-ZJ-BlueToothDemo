@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "24.0.3"
+    compileSdkVersion 28
+    buildToolsVersion "29.0.3"
 
     defaultConfig {
         applicationId "zj.com.cn.bluetooth.sdk"
-        minSdkVersion 8
-        targetSdkVersion 8
+        minSdkVersion 26
+        targetSdkVersion 28
     }
 
     buildTypes {
